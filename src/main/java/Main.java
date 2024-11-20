@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    //it's Main origin-test1
+    //it's Main origin-test2
     public static void main(String[] args) {
         // Создаем список автомобилей
         List<Car> cars = new ArrayList<>();
